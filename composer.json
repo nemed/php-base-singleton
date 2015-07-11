@@ -1,0 +1,25 @@
+{
+    "name": "turkevich/php-base-singleton",
+    "description": "PHP Base Singleton",
+    "keywords": [
+        "php",
+        "base",
+        "singleton",
+        "php base",
+        "php base singleton",
+        "php pattern singleton"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Cyril Turkevich",
+            "email": "cyril.turkevich@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {"ctur\\": ""}
+    }
+}
